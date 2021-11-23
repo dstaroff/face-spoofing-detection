@@ -1,0 +1,5 @@
+Cython
+numpy
+opencv-python
+scikit-learn==0.21.3
+joblib
